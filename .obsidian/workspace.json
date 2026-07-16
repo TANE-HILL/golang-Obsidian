@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2. Функции и передача данных.md",
+                "file": "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2.G. ~ PRACTICE  ~.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.0.2. Функции и передача данных"
+              "title": "3.0.2.G. ~ PRACTICE  ~"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 283.5
   },
   "right": {
     "id": "50dcc1930a4a7424",
@@ -173,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -181,15 +182,14 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "custom-sort:Toggle custom sorting": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e2e4f594dc431bcc",
   "lastOpenFiles": [
-    "1. Golang/1.2. Типы данных.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2. Функции и передача данных.md",
+    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2.G. ~ PRACTICE  ~.md",
+    "1. Golang/1.2. Типы данных.md",
     "1. Golang/1.5. Функции и передача данных.md",
     "1. Golang/1.4. Указатели - работа с памятью и передача данных.md",
     "1. Golang/1.3. Циклы, условия, логика.md",
