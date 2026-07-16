@@ -11,10 +11,14 @@
             "id": "e2e4f594dc431bcc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "1. Golang/1.5. Функции и передача данных.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5. Функции и передача данных"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 301.5
   },
   "right": {
     "id": "50dcc1930a4a7424",
@@ -159,12 +163,23 @@
               "icon": "lucide-list",
               "title": "Структура Без названия"
             }
+          },
+          {
+            "id": "c7bd94684f3f1660",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,17 +198,22 @@
   },
   "active": "e2e4f594dc431bcc",
   "lastOpenFiles": [
+    "Без названия.canvas",
+    "99 ~ FILES ~/Pasted image 20260715092747.png",
+    "99 ~ FILES ~/Pasted image 20260714172512.png",
+    "99 ~ FILES ~/Pasted image 20260714114122.png",
+    "1. Golang/1.4. Указатели - работа с памятью и передача данных.md",
+    "2. IDE JetBrains Goland/2.0. Basics/2.0.0. JetBrains Goland.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2.G. ~ PRACTICE  GPT ~.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2. Функции и передача данных.md",
-    "1. Golang/1.0. Go Basics.md",
-    "1. Golang/1.2. Типы данных.md",
     "1. Golang/1.5. Функции и передача данных.md",
-    "1. Golang/1.4. Указатели - работа с памятью и передача данных.md",
     "1. Golang/1.3. Циклы, условия, логика.md",
+    "1. Golang/1.0. Go Basics.md",
+    "0. Navigation/0.0. ~ Dashboard ~.md",
+    "1. Golang/1.1. Переменные.md",
+    "1. Golang/1.2. Типы данных.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.1. Циклы, условия, логика.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.0. Переменные, типы и выражения.md",
-    "2. IDE JetBrains Goland/2.0. Basics/2.0.0. JetBrains Goland.md",
-    "1. Golang/1.1. Переменные.md",
     "3. ~ ПРАКТИКИ ~/3.10. Модуль 12",
     "3. ~ ПРАКТИКИ ~/3.9. Модуль 11",
     "3. ~ ПРАКТИКИ ~/3.8. Модуль 10",
@@ -204,15 +224,10 @@
     "3. ~ ПРАКТИКИ ~/3.3. Модуль 5",
     "3. ~ ПРАКТИКИ ~/3.2. Модуль 4",
     "3. ~ ПРАКТИКИ ~/3.1. Модуль 3",
-    "0. Navigation/0.0. ~ Dashboard ~.md",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.99. ~ IDE HOTKEYS ~.md",
-    "99 ~ FILES ~/Pasted image 20260715092747.png",
-    "99 ~ FILES ~/Pasted image 20260714114122.png",
-    "99 ~ FILES ~/Pasted image 20260714172512.png",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.2. Terminal.md",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.0. Project.md",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.1. Editor.md",
-    "Без названия.canvas",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.6. Problems.md",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.5. Git.md",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.4. Debug.md",
