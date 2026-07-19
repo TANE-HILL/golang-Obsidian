@@ -433,7 +433,7 @@
   "cMenuNumRows": 12,
   "cMenuWidth": 610,
   "cMenuFontColor": "#ff0000",
-  "cMenuBackgroundColor": "#ff4d4f",
+  "cMenuBackgroundColor": "rgba(240, 200, 0, 0.2)",
   "autohide": false,
   "Iscentered": false,
   "custom_bg1": "#FFB78B8C",
