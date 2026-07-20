@@ -11,10 +11,14 @@
             "id": "e2e4f594dc431bcc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.4. Map в Go.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.0.4. Map в Go"
             }
           }
         ]
@@ -194,8 +198,8 @@
   },
   "active": "e2e4f594dc431bcc",
   "lastOpenFiles": [
-    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.4. Map в Go.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.3. Массивы и слайсы.md",
+    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.4. Map в Go.md",
     "1. Golang/1.7. Map в Go - устройство и особенности.md",
     "1. Golang/1.6. Массивы и слайсы, работа под капотом.md",
     "1. Golang/1.3. Циклы, условия, логика.md",
