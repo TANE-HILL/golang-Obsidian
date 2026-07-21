@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Golang/1.8. Структуры и методы.md",
+                "file": "3. ~ ПРАКТИКИ ~/3.1. Модуль 3/3.1.0. Структуры и методы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8. Структуры и методы"
+              "title": "3.1.0. Структуры и методы"
             }
           }
         ]
@@ -198,10 +198,11 @@
   },
   "active": "e2e4f594dc431bcc",
   "lastOpenFiles": [
-    "1. Golang/1.8. Структуры и методы.md",
     "1. Golang/1.7. Map в Go - устройство и особенности.md",
-    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.5. ~ 2 ~ ПРОЕКТ.md",
+    "3. ~ ПРАКТИКИ ~/3.1. Модуль 3/3.1.0. Структуры и методы.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.4. Map в Go.md",
+    "1. Golang/1.8. Структуры и методы.md",
+    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.5. ~ 2 ~ ПРОЕКТ.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2.G. ~ PRACTICE  GPT ~.md",
     "1. Golang/1.6. Массивы и слайсы, работа под капотом.md",
     "1. Golang/1.5. Функции и передача данных.md",
@@ -239,7 +240,6 @@
     "2. IDE JetBrains Goland/2.1. Interface/2.1.1. Editor.md",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.6. Problems.md",
     "2. IDE JetBrains Goland/2.1. Interface/2.1.5. Git.md",
-    "2. IDE JetBrains Goland/2.1. Interface/2.1.4. Debug.md",
     "Pasted image 20260714105920.png",
     "Pasted image 20260714105848.png"
   ]
