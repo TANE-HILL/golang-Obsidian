@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"2. IDE JetBrains Goland\"  ",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.3919921875,
   "lineSizeMultiplier": 3.8573046875,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.868142361111111,
   "repelStrength": 17.9557291666667,
   "linkStrength": 0.410416666666667,
   "linkDistance": 201,
-  "scale": 1.101631870156849,
-  "close": true
+  "scale": 0.7344212467712331,
+  "close": false
 }
