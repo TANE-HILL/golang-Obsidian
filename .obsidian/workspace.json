@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.15. Каналы и конструкция Select.md",
+                "file": "1. Golang/1.15. Каналы и конструкция Select.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,10 +196,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e2e4f594dc431bcc",
+  "active": "ee1511862924a1b6",
   "lastOpenFiles": [
     "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.0. Goroutines.md",
-    "1.15. Каналы и конструкция Select.md",
+    "1. Golang/1.15. Каналы и конструкция Select.md",
     "3. ~ ПРАКТИКИ ~/3.2. Модуль 4/3.2.2. ~ 4 ~ ПРОЕКТ.md",
     "1. Golang/1.12. panic, recover, defer.md",
     "1. Golang/1.11. Ошибки и обработка ошибок.md",
