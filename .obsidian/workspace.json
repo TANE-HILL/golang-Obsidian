@@ -11,10 +11,14 @@
             "id": "e2e4f594dc431bcc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.1. Каналы и конструкция Select.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3.1. Каналы и конструкция Select"
             }
           }
         ]
