@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"1. Golang/1.1. Основы Go\"  ",
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 1.3919921875,
   "lineSizeMultiplier": 3.8573046875,
   "collapse-forces": false,
-  "centerStrength": 0.709418402777778,
-  "repelStrength": 14.2960069444444,
-  "linkStrength": 0.829296875,
-  "linkDistance": 136,
-  "scale": 0.778100347483438,
+  "centerStrength": 0.641059027777778,
+  "repelStrength": 16.5581597222222,
+  "linkStrength": 1,
+  "linkDistance": 129,
+  "scale": 0.8532566045057487,
   "close": true
 }

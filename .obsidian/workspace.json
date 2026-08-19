@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Golang/1.4. Конкурентность в Go/1.4.3. Планировщик Go.md",
+                "file": "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.3. ~ 5 ~ ПРОЕКТ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4.3. Планировщик Go"
+              "title": "3.3.3. ~ 5 ~ ПРОЕКТ"
             }
           }
         ]
@@ -196,10 +196,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ee1511862924a1b6",
+  "active": "e2e4f594dc431bcc",
   "lastOpenFiles": [
-    "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.2. sync пакет (WaitGroup, Mutex, Atomic, Pool, Context).md",
+    "3. ~ ПРАКТИКИ ~/3.2. Модуль 4/3.2.2. ~ 4 ~ ПРОЕКТ.md",
+    "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.3. ~ 5 ~ ПРОЕКТ.md",
     "1. Golang/1.4. Конкурентность в Go/1.4.3. Планировщик Go.md",
+    "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.2. sync пакет (WaitGroup, Mutex, Atomic, Pool, Context).md",
     "1. Golang/1.4. Конкурентность в Go/1.4.2. sync пакет (WaitGroup, Mutex, Atomic, Pool, Context).md",
     "1. Golang/1.2. ООП в Go/1.2.0. Структуры и методы.md",
     "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.1. Каналы и конструкция Select.md",
@@ -226,8 +228,6 @@
     "1. Golang/1.2. ООП в Go",
     "1. Golang/1.1. Основы Go",
     "3. ~ ПРАКТИКИ ~/3.2. Модуль 4/3.2.1. panic, recover, defer.md",
-    "3. ~ ПРАКТИКИ ~/3.2. Модуль 4/3.2.2. ~ 4 ~ ПРОЕКТ.md",
-    "3. ~ ПРАКТИКИ ~/3.2. Модуль 4/3.2.0. Ошибки и обработка ошибок.md",
     "Pasted image 20260717211755.png",
     "99 ~ FILES ~/Pasted image 20260717142148.png",
     "Без названия.canvas",
