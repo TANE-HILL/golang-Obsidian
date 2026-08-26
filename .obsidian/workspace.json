@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.1. ~ JSON ~.md",
-                "mode": "preview",
+                "file": "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.3. ~ XML ~.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6.0.1. ~ JSON ~"
+              "title": "1.6.0.3. ~ XML ~"
             }
           }
         ]
@@ -200,20 +200,21 @@
   },
   "active": "e2e4f594dc431bcc",
   "lastOpenFiles": [
-    "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.0. Работа с JSON, YAML, XML.md",
-    "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.3. ~ XML ~.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.2. ~ YAML ~.md",
+    "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.3. ~ XML ~.md",
+    "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.0. JSON, YAML, XML.md",
+    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.1. Code Review best practices.md",
+    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.2. ~ 6 ~ ПРОЕКТ.md",
+    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.0. go mod и go sum.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.1. ~ JSON ~.md",
+    "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.0. Работа с JSON, YAML, XML.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML",
     "1. Golang/1.6. Веб и API в Go/1.6.0.",
     "1. Golang/1.6. Веб и API в Go",
     "1. Golang/1.6. Веб и API в Go.md",
-    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.2. ~ 6 ~ ПРОЕКТ.md",
     "99 ~ FILES ~/Pasted image 20260826022038.png",
     "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.3. ~ 5 ~ ПРОЕКТ.md",
-    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.1. Code Review best practices.md",
     "1. Golang/1.5. Архитектура приложений/1.5.4. Code Review best practices.md",
-    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.0. go mod и go sum.md",
     "1. Golang/1.5. Архитектура приложений/1.5.2. go mod и go sum.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.0. Переменные, типы и выражения.md",
     "1. Golang/1.1. Основы Go/1.1.1. Переменные.md",
@@ -229,7 +230,6 @@
     "1. Golang/1.1. Основы Go/1.1.7. Map в Go - устройство и особенности.md",
     "3. ~ ПРАКТИКИ ~/3.1. Модуль 3/3.1.0. Структуры и методы.md",
     "1. Golang/1.2. ООП в Go/1.2.0. Структуры и методы.md",
-    "3. ~ ПРАКТИКИ ~/3.1. Модуль 3/3.1.1. Интерфейсы в Go.md",
     "99 ~ FILES ~/Pasted image 20260824181308.png",
     "1. Golang/1.5. Архитектура приложений",
     "1. Golang/1.4. Конкурентность в Go",
