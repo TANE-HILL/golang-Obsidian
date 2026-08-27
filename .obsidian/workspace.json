@@ -194,8 +194,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d7bf1f0ba76dce12",
+  "active": "ee1511862924a1b6",
   "lastOpenFiles": [
+    "1. Golang/1.6. Веб и API в Go/1.6.2. REST API.md",
+    "1. Golang/1.6. Веб и API в Go/1.6.1. HTTP-сервер.md",
     "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.0. (П) JSON, YAML, XML.md",
     "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.1. (П) Code Review best practices.md",
     "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.0. (П) go mod и go sum.md",
@@ -212,7 +214,6 @@
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2. (П) Функции и передача данных.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.1. (П) Циклы, условия, логика.md",
     "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.0. (П) Переменные, типы и выражения.md",
-    "1. Golang/1.6. Веб и API в Go/1.6.1. HTTP-сервер.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.3. ~ XML ~.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.2. ~ YAML ~.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.1. ~ JSON ~.md",
@@ -226,7 +227,6 @@
     "1. Golang/1.6. Веб и API в Go.md",
     "99 ~ FILES ~/Pasted image 20260826022038.png",
     "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.3. ~ 5 ~ ПРОЕКТ.md",
-    "1. Golang/1.5. Архитектура приложений/1.5.2. go mod и go sum.md",
     "99 ~ FILES ~/Pasted image 20260824181308.png",
     "1. Golang/1.5. Архитектура приложений",
     "1. Golang/1.4. Конкурентность в Go",
