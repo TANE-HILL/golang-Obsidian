@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.1. (П) REST API.md",
+                "file": "1.6.3. Middleware и логирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5.1. (П) REST API"
+              "title": "1.6.3. Middleware и логирование"
             }
           }
         ],
@@ -213,10 +213,14 @@
   },
   "active": "3e787611e4b453a3",
   "lastOpenFiles": [
-    "Pasted image 20260829172813.png",
-    "Pasted image 20260829172736.png",
-    "1. Golang/1.6. Веб и API в Go/1.6.2. REST API.md",
     "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.1. (П) REST API.md",
+    "1.6.3. Middleware и логирование.md",
+    "99 ~ FILES ~/Pasted image 20260830012234.png",
+    "99 ~ FILES ~/Pasted image 20260830012014.png",
+    "99 ~ FILES ~/Pasted image 20260830011754.png",
+    "99 ~ FILES ~/Pasted image 20260829172813.png",
+    "99 ~ FILES ~/Pasted image 20260829172736.png",
+    "1. Golang/1.6. Веб и API в Go/1.6.2. REST API.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.0. Работа с JSON, YAML, XML.md",
     "1. Golang/1.6. Веб и API в Go/1.6.1. HTTP-сервер.md",
     "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.0. (П) JSON, YAML, XML.md",
@@ -225,8 +229,6 @@
     "99 ~ FILES ~/Pasted image 20260829131119.png",
     "99 ~ FILES ~/Pasted image 20260829125445.png",
     "99 ~ FILES ~/Pasted image 20260829125332.png",
-    "99 ~ FILES ~/Pasted image 20260829125640.png",
-    "99 ~ FILES ~/Pasted image 20260829125555.png",
     "1. Golang/1.5. Архитектура приложений/1.5.1. Пакеты и зависимости.md",
     "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.1. (П) Code Review best practices.md",
     "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.0. (П) go mod и go sum.md",
@@ -246,12 +248,10 @@
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.3. ~ XML ~.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.2. ~ YAML ~.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.1. ~ JSON ~.md",
-    "99 ~ FILES ~/Pasted image 20260826160710.png",
     "1. Golang/1.5. Архитектура приложений/1.5.4. Code Review best practices.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML",
     "1. Golang/1.6. Веб и API в Go/1.6.0.",
     "1. Golang/1.6. Веб и API в Go",
-    "99 ~ FILES ~/Pasted image 20260826022038.png",
     "1. Golang/1.5. Архитектура приложений",
     "1. Golang/1.4. Конкурентность в Go",
     "1. Golang/1.3. Ошибки в Go",
