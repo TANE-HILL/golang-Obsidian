@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Golang/1.6. Веб и API в Go/1.6.2. REST API.md",
-                "mode": "preview",
+                "file": "1. Golang/1.6. Веб и API в Go/1.6.3. Middleware и логирование.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6.2. REST API"
+              "title": "1.6.3. Middleware и логирование"
             }
           }
         ],
@@ -213,14 +213,14 @@
   },
   "active": "3e787611e4b453a3",
   "lastOpenFiles": [
-    "1. Golang/1.6. Веб и API в Go/1.6.3. Middleware и логирование.md",
     "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.1. (П) REST API.md",
+    "1. Golang/1.6. Веб и API в Go/1.6.2. REST API.md",
+    "1. Golang/1.6. Веб и API в Go/1.6.3. Middleware и логирование.md",
     "99 ~ FILES ~/Pasted image 20260830012234.png",
     "99 ~ FILES ~/Pasted image 20260830012014.png",
     "99 ~ FILES ~/Pasted image 20260830011754.png",
     "99 ~ FILES ~/Pasted image 20260829172813.png",
     "99 ~ FILES ~/Pasted image 20260829172736.png",
-    "1. Golang/1.6. Веб и API в Go/1.6.2. REST API.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.0. Работа с JSON, YAML, XML.md",
     "1. Golang/1.6. Веб и API в Go/1.6.1. HTTP-сервер.md",
     "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.0. (П) JSON, YAML, XML.md",
