@@ -763,13 +763,116 @@ AVG(expression)
 ```PostgreSQL 17.5
 COUNT(expression)
 ```
-expression - Выражение для подсчета (используйте * для всех строк).
+- expression - Выражение для подсчета *(`*` для всех строк)*.
 
-Примеры
-
-PostgreSQL 17.5
-
-```sql
+***Пример:***
+```PostgreSQL 17.5
 SELECT COUNT(*)
 FROM FamilyMembers;
 ```
+
+*Допустим, `FamilyMembers`:*
+- `Вася`
+- `Маша`
+- `NULL`
+- `Петя`
+
+*Тогда результат:* `3`
+
+## <u>MAX</u>
+Возвращает **максимальное** (наибольшее) значение в наборе.
+```PostgreSQL 17.5
+MAX(expression)
+```
+
+## <u>MIN</u>
+Возвращает **минимальное** (наименьшее) значение в наборе.
+```PostgreSQL 17.5
+MIN(expression)
+```
+
+## <u>STRING_AGG</u>
+Объединяет набор строк с разделителем.
+```PostgreSQL 17.5
+STRING_AGG(expression, delimiter)
+```
+- `expression` - Строковое выражение;
+- `delimiter` - Разделитель для вставки.
+
+***Пример:***
+```PostgreSQL 17.5
+SELECT STRING_AGG(member_name, ', ')
+FROM FamilyMembers;
+```
+
+*Допустим, `FamilyMembers`:*
+- `Вася`
+- `Маша`
+- `Петя`
+
+*Тогда результат:* `Вася, Маша, Петя`
+
+## <u>SUM</u>
+Возвращает сумму набора значений.
+```PostgreSQL 17.5
+SUM(expression)
+```
+
+---
+# Продвинутые функции
+
+## <u>CAST</u>
+Преобразует значение в указанный тип.
+```PostgreSQL 17.5
+CAST(value AS type)
+```
+- `value` - Значение для преобразования;
+- `type` - Целевой тип.
+
+***Пример:***
+```PostgreSQL 17.5
+SELECT CAST(12005.6 AS NUMERIC)
+```
+
+## <u>COALESCE</u>
+Возвращает первое не-null значение из списка.
+```PostgreSQL 17.5
+COALESCE(val1[, val2, ...., val_n])
+```
+- `val1` - Значения для проверки.
+
+***Пример:***
+```PostgreSQL 17.5
+SELECT COALESCE(NULL, NULL, 1, 2)
+```
+
+## <u>NULLIF</u>
+Возвращает `null`, если два значения равны.
+```PostgreSQL 17.5
+NULLIF(value_1, value_2)
+```
+
+## <u>WITH</u>
+Определяет общее табличное выражение (CTE).
+Это способ создать **временную таблицу внутри одного SQL-запроса**. Она называется **CTE (Common Table Expression)**.
+```PostgreSQL 17.5
+WITH name_cte AS (subquery)
+```
+- `name_cte` - Имя CTE;
+- `subquery` - Подзапрос.
+
+***Пример:***
+```PostgreSQL 17.5
+WITH family_stats AS (
+	SELECT STATUS,
+		COUNT(*) AS cnt
+	FROM FamilyMembers
+	GROUP BY STATUS
+)
+SELECT *
+FROM family_stats;
+```
+*Объяснение:*
+`WITH family_stats AS (...)` создаёт **временный результат** и называет его `family_stats`.
+А затем `SELECT * FROM family_stats;` работает с ним как с обычной таблицей.
+
