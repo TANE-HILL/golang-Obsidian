@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8cfed95d06d3c516",
+        "id": "be1aa8052d51388c",
         "type": "tabs",
         "children": [
           {
-            "id": "d7bf1f0ba76dce12",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "99 ~ FILES ~/Pasted image 20260829125640.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260829125640"
-            }
-          },
-          {
-            "id": "3e787611e4b453a3",
+            "id": "7e2b984f4b8790ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Golang/1.6. Веб и API в Go/1.6.5. Контекст в запросах.md",
-                "mode": "source",
+                "file": "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ ~.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6.5. Контекст в запросах"
+              "title": "~ СПРАВОЧНИК ФУНКЦИЙ ~"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 322.109375
   },
   "right": {
     "id": "50dcc1930a4a7424",
@@ -170,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ ~.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура"
             }
           },
           {
@@ -190,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 225.14453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,54 +197,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ee1511862924a1b6",
+  "active": "7e2b984f4b8790ec",
   "lastOpenFiles": [
-    "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.3. (П) Валидация данных.md",
+    "3. SQL Academy/3.1. ~ Модуль 2 ~ Основы выборки I/3.1.2. Применение функций.md",
+    "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ ~.md",
+    "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ ~",
+    "3. SQL Academy/3.1. ~ Модуль 2 ~ Основы выборки I/3.1.0. Базовый синтаксис SQL запроса.md",
+    "3. SQL Academy/3.1. ~ Модуль 2 ~ Основы выборки I/3.1.1. Литералы в SQL.md",
+    "2. Базы Данных/2.0. SQL/2.0.1. Основы SQL - SELECT, FROM, GROUP BY, ORDER BY.md",
+    "1. Golang/1.5. Архитектура приложений/1.5.4. Code Review best practices.md",
+    "2. Базы Данных/2.0. SQL/2.0.0. Базы данных и их виды.md",
+    "3. SQL Academy/3.0. ~ Модуль 1 ~ Основы/3.0.1. Реляционные базы данных.md",
+    "99 ~ FILES ~/Pasted image 20260909011103.png",
+    "99 ~ FILES ~/Pasted image 20260909010909.png",
+    "99 ~ FILES ~/Pasted image 20260909010707.png",
+    "99 ~ FILES ~/Pasted image 20260909010616.png",
+    "3. SQL Academy/3.0. ~ Модуль 1 ~ Основы/3.0.5. Вводная информация о SQL.md",
+    "3. SQL Academy/3.0. ~ Модуль 1 ~ Основы/3.0.4. Структура реляционных БД.md",
+    "3. SQL Academy/3.0. ~ Модуль 1 ~ Основы/3.0.3. Документоориентированные базы данных.md",
+    "3. SQL Academy/3.0. ~ Модуль 1 ~ Основы/3.0.2. Key-Value базы данных.md",
+    "3. SQL Academy/3.0. ~ Модуль 1 ~ Основы/3.0.0. Что такое БД и СУБД.md",
+    "3. SQL Academy/3.1. ~ Модуль 2 ~ Основы выборки I.md",
+    "3. SQL Academy/3.0. ~ Модуль 1 ~ Основы.md",
+    "3. SQL Academy/3.1. ~ Модуль 2 ~ Основы выборки I",
+    "3. SQL Academy/3.0. ~ Модуль 1 ~ Основы",
+    "99 ~ FILES ~/Pasted image 20260909000327.png",
+    "99 ~ FILES ~/Pasted image 20260909000259.png",
+    "99 ~ FILES ~/Pasted image 20260908234245.png",
+    "99 ~ FILES ~/Pasted image 20260908233842.png",
+    "99 ~ FILES ~/telegram-cloud-photo-size-2-5260506692271677074-x.jpg",
+    "99 ~ FILES ~/Pasted image 20260829125640.png",
+    "3. SQL Academy",
+    "2. Базы Данных/2.0. SQL/~ SQL Academy ~",
+    "2. Базы Данных/2.0. SQL",
+    "5. DevOps",
+    "4. Git",
+    "2. Базы Данных",
+    "~ SQL Academy ~.md",
+    "2. Базы Данных/2.0. SQL/~ SQL Academy ~",
     "1. Golang/1.6. Веб и API в Go/1.6.5. Контекст в запросах.md",
     "1. Golang/1.6. Веб и API в Go/1.6.4. Валидация данных.md",
-    "99 ~ FILES ~/Pasted image 20260903015523.png",
-    "99 ~ FILES ~/Pasted image 20260903015446.png",
-    "99 ~ FILES ~/Pasted image 20260903015356.png",
-    "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.2. (П) Middleware и логирование.md",
-    "99 ~ FILES ~/Pasted image 20260903014828.png",
-    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.1. (П) Code Review best practices.md",
-    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.0. (П) go mod и go sum.md",
-    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.0. (П) Переменные, типы и выражения.md",
-    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.1. (П) Циклы, условия, логика.md",
-    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2. (П) Функции и передача данных.md",
-    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.2.G. (П) ~ PRACTICE  GPT ~.md",
-    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.3. (П) Массивы и слайсы.md",
-    "3. ~ ПРАКТИКИ ~/3.0. Модуль 2/3.0.4. (П) Map в Go.md",
-    "3. ~ ПРАКТИКИ ~/3.1. Модуль 3/3.1.0. (П) Структуры и методы.md",
-    "3. ~ ПРАКТИКИ ~/3.1. Модуль 3/3.1.1. (П) Интерфейсы в Go.md",
-    "3. ~ ПРАКТИКИ ~/3.2. Модуль 4/3.2.0. (П) Ошибки и обработка ошибок.md",
-    "3. ~ ПРАКТИКИ ~/3.2. Модуль 4/3.2.1. (П) panic, recover, defer.md",
-    "3. ~ ПРАКТИКИ ~/3.2. Модуль 4/3.2.2. ~ 4 ~ ПРОЕКТ.md",
-    "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.0. (П) Goroutines.md",
-    "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.1. (П) Каналы и конструкция Select.md",
-    "3. ~ ПРАКТИКИ ~/3.3. Модуль 5/3.3.2. (П) sync пакет (WaitGroup, Mutex, Atomic, Pool, Context).md",
-    "3. ~ ПРАКТИКИ ~/3.4. Модуль 6/3.4.2. ~ 6 ~ ПРОЕКТ.md",
-    "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.0. (П) JSON, YAML, XML.md",
-    "3. ~ ПРАКТИКИ ~/3.5. Модуль 7/3.5.1. (П) REST API.md",
     "1. Golang/1.6. Веб и API в Go/1.6.3. Middleware и логирование.md",
-    "99 ~ FILES ~/Pasted image 20260901142017.png",
-    "99 ~ FILES ~/Pasted image 20260901142001.png",
-    "99 ~ FILES ~/Pasted image 20260901141816.png",
-    "99 ~ FILES ~/Pasted image 20260901141749.png",
-    "99 ~ FILES ~/Pasted image 20260901141633.png",
+    "1. Golang/1.6. Веб и API в Go/1.6.1. HTTP-сервер.md",
     "1. Golang/1.6. Веб и API в Go/1.6.2. REST API.md",
-    "99 ~ FILES ~/Pasted image 20260830012234.png",
+    "1. Golang/1.5. Архитектура приложений/1.5.0. Архитектура проекта.md",
+    "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.1. ~ JSON ~.md",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.0. Работа с JSON, YAML, XML.md",
-    "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML",
-    "1. Golang/1.6. Веб и API в Go/1.6.0.",
-    "1. Golang/1.6. Веб и API в Go",
-    "1. Golang/1.5. Архитектура приложений",
-    "1. Golang/1.4. Конкурентность в Go",
-    "1. Golang/1.3. Ошибки в Go",
-    "1. Golang/1.2. ООП в Go",
-    "1. Golang/1.1. Основы Go",
-    "Без названия.canvas",
-    "3. ~ ПРАКТИКИ ~/3.10. Модуль 12",
-    "3. ~ ПРАКТИКИ ~/3.9. Модуль 11"
+    "1. Golang/1.5. Архитектура приложений/1.5.3. Стиль и линтеры.md",
+    "1. Golang/1.5. Архитектура приложений/1.5.2. go mod и go sum.md",
+    "Без названия.canvas"
   ]
 }

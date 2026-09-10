@@ -1,3 +1,8 @@
 {
-  "accentColor": "#ff4747"
+  "accentColor": "#ff4747",
+  "enabledCssSnippets": [
+    "dopamine-outline"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Minimal"
 }
