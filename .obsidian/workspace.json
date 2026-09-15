@@ -11,10 +11,14 @@
             "id": "7e2b984f4b8790ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.5. Подзапрос с 1 строкой и 1 столбцом.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2.5. Подзапрос с 1 строкой и 1 столбцом"
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.5. Подзапрос с 1 строкой и 1 столбцом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.5. Подзапрос с 1 строкой и 1 столбцом.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,9 +198,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ee1511862924a1b6",
+  "active": "7e2b984f4b8790ec",
   "lastOpenFiles": [
+    "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.3. Выборка, LIMIT.md",
+    "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.4. Подзапросы.md",
+    "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.5. Подзапрос с 1 строкой и 1 столбцом.md",
+    "2. Базы Данных/2.0. SQL/2.0.1. Основы SQL - SELECT, FROM, GROUP BY, ORDER BY.md",
+    "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.0. Базовый синтаксис SQL запроса.md",
+    "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.8. Сортировка, ORDER BY.md",
+    "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы/3.0.5. Вводная информация о SQL.md",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.2. OUTER JOIN.md",
+    "99 ~ FILES ~/Pasted image 20260915230827.png",
+    "99 ~ FILES ~/Pasted image 20260915230753.png",
+    "99 ~ FILES ~/Pasted image 20260915230659.png",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.1. INNER JOIN.md",
     "99 ~ FILES ~/Pasted image 20260914234930.png",
     "99 ~ FILES ~/Pasted image 20260914234845.png",
@@ -202,15 +218,12 @@
     "99 ~ FILES ~/Pasted image 20260914234636.png",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.11. Оператор HAVING.md",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.0. Многотабличные запросы, JOIN.md",
-    "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.0. Базовый синтаксис SQL запроса.md",
     "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ SQL ~.md",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.9. Группировка, GROUP BY.md",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.10. Агрегатные функции.md",
     "2. Базы Данных/2.0. SQL/2.0.2. Работа с несколькими таблицами.md",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы",
     "dwe.md",
-    "2. Базы Данных/2.0. SQL/2.0.1. Основы SQL - SELECT, FROM, GROUP BY, ORDER BY.md",
-    "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.8. Сортировка, ORDER BY.md",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.6. Оператор LIKE.md",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.7. Оператор регулярных выражений.md",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.5. Операторы IS NULL, BETWEEN, IN.md",
@@ -221,16 +234,10 @@
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.2. Применение функций.md",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.1. Литералы в SQL.md",
     "99 ~ FILES ~/Pasted image 20260911015438.png",
-    "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы/3.0.5. Вводная информация о SQL.md",
     "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы/3.0.4. Структура реляционных БД.md",
     "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы/3.0.3. Документоориентированные базы данных.md",
-    "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы/3.0.2. Key-Value базы данных.md",
-    "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы/3.0.1. Реляционные базы данных.md",
     "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ ~",
     "99 ~ FILES ~/Pasted image 20260909011103.png",
-    "99 ~ FILES ~/Pasted image 20260909010909.png",
-    "99 ~ FILES ~/Pasted image 20260909010707.png",
-    "99 ~ FILES ~/Pasted image 20260909010616.png",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I",
     "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы",
     "3. SQL Academy",
