@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.9. WITH, обобщенное табличное выражение.md",
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.11. CASE, условный оператор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2.9. WITH, обобщенное табличное выражение"
+              "title": "3.2.11. CASE, условный оператор"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.9. WITH, обобщенное табличное выражение.md",
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.11. CASE, условный оператор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.9. WITH, обобщенное табличное выражение.md",
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.11. CASE, условный оператор.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,9 @@
   "active": "7e2b984f4b8790ec",
   "lastOpenFiles": [
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.10. UNION, объединение запросов.md",
-    "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.8. Коррелированные подзапросы.md",
+    "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.11. CASE, условный оператор.md",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.9. WITH, обобщенное табличное выражение.md",
+    "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.8. Коррелированные подзапросы.md",
     "99 ~ FILES ~/Pasted image 20260917005809.png",
     "99 ~ FILES ~/Pasted image 20260916222011.png",
     "99 ~ FILES ~/Pasted image 20260916221401.png",
