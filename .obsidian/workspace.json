@@ -11,10 +11,14 @@
             "id": "7e2b984f4b8790ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.9. WITH, обобщенное табличное выражение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2.9. WITH, обобщенное табличное выражение"
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.9. WITH, обобщенное табличное выражение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.9. WITH, обобщенное табличное выражение.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,8 +198,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e2b984f4b8790ec",
+  "active": "ee1511862924a1b6",
   "lastOpenFiles": [
+    "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.9. WITH, обобщенное табличное выражение.md",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.4. Подзапросы.md",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.8. Коррелированные подзапросы.md",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.6. Подзапросы с несколькими строками и 1 столбцом.md",
@@ -230,7 +237,6 @@
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.4. Условный оператор WHERE.md",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.3. Исключение дубликатов, DISTINCT.md",
     "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы/3.0.0. Что такое БД и СУБД.md",
-    "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.2. Применение функций.md",
     "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ ~",
     "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I",
     "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы",
