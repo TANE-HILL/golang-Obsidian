@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.1. Числовой тип данных.md",
+                "file": "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.2. Дата и время в SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4.1. Числовой тип данных"
+              "title": "3.4.2. Дата и время в SQL"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.1. Числовой тип данных.md",
+                "file": "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.2. Дата и время в SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.1. Числовой тип данных.md",
+                "file": "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.2. Дата и время в SQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,8 +200,10 @@
   },
   "active": "7e2b984f4b8790ec",
   "lastOpenFiles": [
-    "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ SQL ~.md",
+    "Функции преобразования типов, CAST.md",
+    "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.2. Дата и время в SQL.md",
     "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.1. Числовой тип данных.md",
+    "3. SQL Academy/~ СПРАВОЧНИК ФУНКЦИЙ SQL ~.md",
     "3. SQL Academy/3.3. ~ Модуль 5 ~ Манипулирование/3.3.2. DELETE - удаление данных.md",
     "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.0. Работа с типами данных.md",
     "2. Базы Данных/2.0. SQL/2.0.4. SQL - Структура, типы и индексы.md",
@@ -231,8 +233,6 @@
     "99 ~ FILES ~/Pasted image 20260916004419.png",
     "3. SQL Academy/3.2. ~ Модуль 4 ~ Фундаментальные основы/3.2.5. Подзапрос с 1 строкой и 1 столбцом.md",
     "99 ~ FILES ~/Pasted image 20260915235525.png",
-    "2. Базы Данных/2.0. SQL/2.0.1. Основы SQL - SELECT, FROM, GROUP BY, ORDER BY.md",
-    "3. SQL Academy/3.1. ~ Модуль 3 ~ Основы выборки I/3.1.8. Сортировка, ORDER BY.md",
     "99 ~ FILES ~/Pasted image 20260915230827.png",
     "99 ~ FILES ~/Pasted image 20260915230753.png",
     "99 ~ FILES ~/Pasted image 20260915230659.png",
