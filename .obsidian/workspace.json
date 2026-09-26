@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Базы Данных/2.1. Работа с PostgreSQL/2.1.1. ORM и Query Builders (sqlx, GORM, ent).md",
+                "file": "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.1. (П) ORM и Query Builders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1.1. ORM и Query Builders (sqlx, GORM, ent)"
+              "title": "6.7.1. (П) ORM и Query Builders"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Базы Данных/2.1. Работа с PostgreSQL/2.1.1. ORM и Query Builders (sqlx, GORM, ent).md",
+                "file": "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.1. (П) ORM и Query Builders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Базы Данных/2.1. Работа с PostgreSQL/2.1.1. ORM и Query Builders (sqlx, GORM, ent).md",
+                "file": "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.1. (П) ORM и Query Builders.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,10 +200,11 @@
   },
   "active": "dd31476668d90253",
   "lastOpenFiles": [
-    "2. Базы Данных/2.1. Работа с PostgreSQL/2.1.0. Подключение PostgreSQL.md",
     "2. Базы Данных/2.1. Работа с PostgreSQL/2.1.1. ORM и Query Builders (sqlx, GORM, ent).md",
-    "1. Golang/1.0. IDE JetBrains Goland/1.0.0. Basics/1.0.0.0. JetBrains Goland.md",
+    "2. Базы Данных/2.1. Работа с PostgreSQL/2.1.0. Подключение PostgreSQL.md",
+    "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.1. (П) ORM и Query Builders.md",
     "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.0. (П) Подключение PostgreSQL.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.0. Basics/1.0.0.0. JetBrains Goland.md",
     "99 ~ FILES ~/Pasted image 20260924015437.png",
     "6. ~ ПРАКТИКИ ~/6.4. Модуль 6/6.4.0. (П) go mod и go sum.md",
     "1. Golang/1.5. Архитектура приложений/1.5.2. go mod и go sum.md",
@@ -229,7 +230,6 @@
     "3. SQL Academy/3.5. ~ Модуль 7 ~ БД и таблицы/3.5.0. Создание и удаление БД.md",
     "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.15. IF, CASE, WHILE в хранимых функциях.md",
     "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.16. Планировщик событий.md",
-    "1. Golang/1.5. Архитектура приложений/1.5.4. Code Review best practices.md",
     "3. SQL Academy/3.5. ~ Модуль 7 ~ БД и таблицы",
     "99 ~ FILES ~/Pasted image 20260920142451.png",
     "99 ~ FILES ~/Pasted image 20260920142423.png",
