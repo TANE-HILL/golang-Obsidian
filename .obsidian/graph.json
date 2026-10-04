@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"1. Golang/1.0. IDE JetBrains Goland\"  ",
@@ -57,10 +57,10 @@
       }
     },
     {
-      "query": "path:\"2. Базы Данных/2.0. SQL\"  ",
+      "query": "path:\"2. БД и работа с данными\"  ",
       "color": {
         "a": 1,
-        "rgb": 7935
+        "rgb": 5400319
       }
     },
     {
@@ -158,6 +158,6 @@
   "repelStrength": 12.0846673781572,
   "linkStrength": 0.699173369079535,
   "linkDistance": 114,
-  "scale": 0.5161108746077021,
+  "scale": 0.36278327800181265,
   "close": true
 }

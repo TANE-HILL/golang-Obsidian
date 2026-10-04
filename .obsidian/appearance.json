@@ -1,8 +1,11 @@
 {
-  "accentColor": "#ff4747",
+  "accentColor": "#5d47ff",
   "enabledCssSnippets": [
     "dopamine-outline"
   ],
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "translucency": false
 }
