@@ -39,12 +39,14 @@
             "id": "f478d169e2889b08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md"
+                "file": "2. БД и работа с данными/2.2. Redis и Kafka/2.2.4. ~ Kafka ~ ПОДРОБНО.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2.2.5. ~ Kafka ~ ИНФОГРАФИКА"
+              "icon": "lucide-file",
+              "title": "2.2.4. ~ Kafka ~ ПОДРОБНО"
             }
           }
         ],
@@ -107,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.0078125,
-    "collapsed": true
+    "width": 330.0078125
   },
   "right": {
     "id": "50dcc1930a4a7424",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
+                "file": "2. БД и работа с данными/2.2. Redis и Kafka/2.2.4. ~ Kafka ~ ПОДРОБНО.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,10 +228,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "adff60489dbf73b3",
+  "active": "f478d169e2889b08",
   "lastOpenFiles": [
-    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.4. ~ Kafka ~ ПОДРОБНО.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
+    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.4. ~ Kafka ~ ПОДРОБНО.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/Без названия.canvas",
     "2. БД и работа с данными/2.2. Redis и Kafka/Drawing 2026-10-06 16.14.57.excalidraw.md",
     "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.4. ~ 9 ~ ПРОЕКТ.md",
