@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.2. (П) Гарантии доставки сообщений.md",
+                "file": "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.3. ~ 10 ~ ПРОЕКТ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.8.2. (П) Гарантии доставки сообщений"
+              "title": "6.8.3. ~ 10 ~ ПРОЕКТ"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.2. (П) Гарантии доставки сообщений.md",
+                "file": "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.3. ~ 10 ~ ПРОЕКТ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,24 +201,34 @@
   },
   "active": "dd31476668d90253",
   "lastOpenFiles": [
-    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.6. Гарантии доставки сообщений.md",
     "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.2. (П) Гарантии доставки сообщений.md",
+    "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.3. ~ 10 ~ ПРОЕКТ.md",
+    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
+    "99 ~ FILES ~/Pasted image 20261007165054.png",
+    "99 ~ FILES ~/goshop/internal/services/product_service.go",
+    "99 ~ FILES ~/goshop/internal/services/order_service.go",
+    "99 ~ FILES ~/goshop/internal/models/product.go",
+    "99 ~ FILES ~/goshop/internal/models/order.go",
+    "99 ~ FILES ~/goshop/internal/db/db.go",
+    "99 ~ FILES ~/goshop/internal/handlers/product_handler.go",
+    "99 ~ FILES ~/goshop/internal/handlers/order_handler.go",
+    "99 ~ FILES ~/goshop/internal/cache/redis_cache.go",
+    "99 ~ FILES ~/goshop/internal/events/publisher.go",
+    "99 ~ FILES ~/goshop/internal/db/product_repo.go",
     "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.1. (П) Kafka - продюсеры и консьюмеры.md",
+    "goshop.zip.md",
+    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.6. Гарантии доставки сообщений.md",
     "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.0. (П) Redis - основы и кэширование.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.4. ~ Kafka ~ ПОДРОБНО.md",
-    "goshop",
-    "goshop.zip",
     "99 ~ FILES ~/Pasted image 20261007154847.png",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.1. TTL, eviction.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.2. Микросервисы и монолит.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.3. Kafka - продюсеры и консьюмеры.md",
-    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
     "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.1. (П) ORM и Query Builders.md",
     "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.2. (П) Транзакции.md",
     "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.3. (П) Оптимизация и безопасность запросов.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.0. Redis - основы и кэширование.md",
     "ключ.md",
-    "2. БД и работа с данными/2.2. Redis и Kafka/Без названия.base",
     "1. Golang/1.6. Веб и API в Go/1.6.3. Middleware и логирование.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/Без названия.canvas",
     "2. БД и работа с данными/2.2. Redis и Kafka/Drawing 2026-10-06 16.14.57.excalidraw.md",
@@ -234,21 +244,11 @@
     "99 ~ FILES ~/Pasted image 20261005201523.png",
     "99 ~ FILES ~/Pasted image 20261005200015.png",
     "round-robin.md",
-    "99 ~ FILES ~/Pasted image 20261005195552.png",
     "1. Golang/1.6. Веб и API в Go/1.6.0. JSON, YAML, XML/1.6.0.0. Работа с JSON, YAML, XML.md",
     "2.2.3. <font color=\".md",
-    "2. БД и работа с данными/2.2. Redis и Kafka/Kafka",
-    "2. БД и работа с данными/2.2. Redis и Kafka/Новая папка",
     "2. БД и работа с данными/2.1. Работа с PostgreSQL/2.1.2. Миграции.md",
     "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.12. Хранимые процедуры и функции.md",
     "2. БД и работа с данными/2.1. Работа с PostgreSQL/2.1.1. ORM и Query Builders (sqlx, GORM, ent).md",
-    "1. Golang/1.4. Конкурентность в Go/1.4.1. Каналы и конструкция Select.md",
-    "2. БД и работа с данными/2.1. Работа с PostgreSQL/2.1.3. Транзакции.md",
-    "2. БД и работа с данными/2.2. Redis и Kafka",
-    "2. БД и работа с данными/2.1. Работа с PostgreSQL",
-    "3. SQL Academy/3.5. ~ Модуль 7 ~ БД и таблицы",
-    "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL",
-    "3. SQL Academy/3.3. ~ Модуль 5 ~ Манипулирование",
     "Без названия.canvas"
   ]
 }
