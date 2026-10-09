@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "6.9.2. (П) Git Flow и модели ветвления"
             }
+          },
+          {
+            "id": "d72144a27f5d3dfa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "4. Git/Drawing 2026-10-09 18.10.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-09 18.10.53.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
+                "file": "4. Git/Drawing 2026-10-09 18.10.53.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,10 +212,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "dd31476668d90253",
+  "active": "d72144a27f5d3dfa",
   "lastOpenFiles": [
-    "4. Git/4.2. Git Flow и модели ветвления.md",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
+    "4. Git/Drawing 2026-10-09 18.10.53.excalidraw.md",
+    "4. Git/4.2. Git Flow и модели ветвления.md",
     "4. Git/4.1. Работа с GitLab - репозиторий, merge requests, code review.md",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.1. (П) Работа с GitLab - репозиторий, merge requests, code review.md",
     "4. Git/4.0. Основы Git - коммиты, ветки, merge.md",
@@ -241,7 +255,6 @@
     "1. Golang/1.6. Веб и API в Go/1.6.3. Middleware и логирование.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/Без названия.canvas",
     "2. БД и работа с данными/2.2. Redis и Kafka/Drawing 2026-10-06 16.14.57.excalidraw.md",
-    "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.4. ~ 9 ~ ПРОЕКТ.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/Kafka/Kafka.canvas",
     "99 ~ FILES ~/Pasted image 20261005205710.png",
     "99 ~ FILES ~/Pasted image 20261005205259.png",
