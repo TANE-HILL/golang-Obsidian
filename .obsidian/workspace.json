@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "6.9.2. (П) Git Flow и модели ветвления"
             }
-          },
-          {
-            "id": "d72144a27f5d3dfa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4. Git/Drawing 2026-10-09 18.10.53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-09 18.10.53.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Git/Drawing 2026-10-09 18.10.53.excalidraw.md",
+                "file": "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,10 +199,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "d72144a27f5d3dfa",
+  "active": "dd31476668d90253",
   "lastOpenFiles": [
-    "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
     "4. Git/Drawing 2026-10-09 18.10.53.excalidraw.md",
+    "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
     "4. Git/4.2. Git Flow и модели ветвления.md",
     "4. Git/4.1. Работа с GitLab - репозиторий, merge requests, code review.md",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.1. (П) Работа с GitLab - репозиторий, merge requests, code review.md",
