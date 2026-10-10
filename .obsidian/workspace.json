@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "6.9.3. ~ 11 ~ ПРОЕКТ"
             }
-          },
-          {
-            "id": "dd71b39874f9d964",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "4.4. Git, GitLab ИНФОГРАФИКА"
-            }
           }
         ]
       }
@@ -213,8 +201,9 @@
   },
   "active": "dd31476668d90253",
   "lastOpenFiles": [
-    "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
+    "Pasted image 20261010235956.png",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.3. ~ 11 ~ ПРОЕКТ.md",
+    "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.1. (П) Работа с GitLab - репозиторий, merge requests, code review.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
@@ -252,7 +241,6 @@
     "99 ~ FILES ~/Pasted image 20261007154847.png",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.1. TTL, eviction.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.3. Kafka - продюсеры и консьюмеры.md",
-    "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.1. (П) ORM и Query Builders.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/Без названия.canvas",
     "2. БД и работа с данными/2.2. Redis и Kafka/Kafka/Kafka.canvas",
     "99 ~ FILES ~/Pasted image 20261005205710.png",
@@ -260,7 +248,6 @@
     "99 ~ FILES ~/Pasted image 20261005204437.png",
     "99 ~ FILES ~/Pasted image 20261005204106.png",
     "99 ~ FILES ~/Pasted image 20261005202854.png",
-    "99 ~ FILES ~/Pasted image 20261005202058.png",
     "Без названия.canvas"
   ]
 }
