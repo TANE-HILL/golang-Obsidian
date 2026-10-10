@@ -11,12 +11,14 @@
             "id": "dd31476668d90253",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md"
+                "file": "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.3. ~ 11 ~ ПРОЕКТ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2.2.5. ~ Kafka ~ ИНФОГРАФИКА"
+              "icon": "lucide-file",
+              "title": "6.9.3. ~ 11 ~ ПРОЕКТ"
             }
           },
           {
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
+                "file": "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.3. ~ 11 ~ ПРОЕКТ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,16 +213,17 @@
   },
   "active": "dd31476668d90253",
   "lastOpenFiles": [
-    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.6. Гарантии доставки сообщений.md",
     "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
+    "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.3. ~ 11 ~ ПРОЕКТ.md",
+    "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
+    "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.1. (П) Работа с GitLab - репозиторий, merge requests, code review.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
+    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.6. Гарантии доставки сообщений.md",
     "6. ~ ПРАКТИКИ ~/6.4. Модуль 6/6.4.1. (П) Code Review best practices.md",
     "4. Git/4.3. ~ CI CD ~ ПОДРОБНО.md",
-    "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
     "4. Git/Drawing 2026-10-09 18.10.53.excalidraw.md",
     "4. Git/4.2. Git Flow и модели ветвления.md",
     "4. Git/4.1. Работа с GitLab - репозиторий, merge requests, code review.md",
-    "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.1. (П) Работа с GitLab - репозиторий, merge requests, code review.md",
     "4. Git/4.0. Основы Git - коммиты, ветки, merge.md",
     "1. Golang/1.0. IDE JetBrains Goland/1.0.0. Basics/1.0.0.0. JetBrains Goland.md",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.0. (П) Основы Git - коммиты, ветки, merge.md",
@@ -250,7 +253,6 @@
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.1. TTL, eviction.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.3. Kafka - продюсеры и консьюмеры.md",
     "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.1. (П) ORM и Query Builders.md",
-    "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.3. (П) Оптимизация и безопасность запросов.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/Без названия.canvas",
     "2. БД и работа с данными/2.2. Redis и Kafka/Kafka/Kafka.canvas",
     "99 ~ FILES ~/Pasted image 20261005205710.png",
