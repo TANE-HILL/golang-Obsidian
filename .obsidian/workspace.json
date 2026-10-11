@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.3. ~ 11 ~ ПРОЕКТ.md",
+                "file": "5. DevOps/5.0. Конфигурации и secrets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.9.3. ~ 11 ~ ПРОЕКТ"
+              "title": "5.0. Конфигурации и secrets"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.3. ~ 11 ~ ПРОЕКТ.md",
+                "file": "5. DevOps/5.0. Конфигурации и secrets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,9 @@
   },
   "active": "dd31476668d90253",
   "lastOpenFiles": [
-    "Pasted image 20261010235956.png",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.3. ~ 11 ~ ПРОЕКТ.md",
+    "5. DevOps/5.0. Конфигурации и secrets.md",
+    "Pasted image 20261010235956.png",
     "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.1. (П) Работа с GitLab - репозиторий, merge requests, code review.md",
