@@ -146,6 +146,20 @@
         "a": 1,
         "rgb": 9699328
       }
+    },
+    {
+      "query": "path:\"4. Git\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746004
+      }
+    },
+    {
+      "query": "path:\"5. DevOps\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10879231
+      }
     }
   ],
   "collapse-display": true,
@@ -158,6 +172,6 @@
   "repelStrength": 12.0846673781572,
   "linkStrength": 0.699173369079535,
   "linkDistance": 114,
-  "scale": 0.496744000899096,
+  "scale": 0.4690146076531956,
   "close": true
 }
