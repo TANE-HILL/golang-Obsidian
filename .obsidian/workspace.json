@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. DevOps/5.2. Observability - Prometheus, Grafana, healthchecks, tracing.md",
+                "file": "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.2. (П) Observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2. Observability - Prometheus, Grafana, healthchecks, tracing"
+              "title": "6.10.2. (П) Observability"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. DevOps/5.2. Observability - Prometheus, Grafana, healthchecks, tracing.md",
+                "file": "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.2. (П) Observability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,15 +201,16 @@
   },
   "active": "dd31476668d90253",
   "lastOpenFiles": [
+    "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.2. (П) Observability.md",
     "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.1. (П) Docker и docker-compose.md",
     "5. DevOps/5.2. Observability - Prometheus, Grafana, healthchecks, tracing.md",
+    "5. DevOps/5.1. Docker и docker-compose.md",
     "99 ~ FILES ~/Pasted image 20261013172636.png",
     "99 ~ FILES ~/Pasted image 20261013172545.png",
     "99 ~ FILES ~/Pasted image 20261013172453.png",
     "99 ~ FILES ~/goshop",
     "99 ~ FILES ~/goshop (add docker).zip",
     "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.0. (П) Конфигурации и secrets.md",
-    "5. DevOps/5.1. Docker и docker-compose.md",
     "5. DevOps/5.0. Конфигурации и secrets.md",
     "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
     "Без названия.md",
@@ -233,7 +234,6 @@
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.0. (П) Основы Git - коммиты, ветки, merge.md",
     "Pasted image 20261010235956.png",
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.2. (П) Git Flow и модели ветвления.md",
-    "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.1. (П) Работа с GitLab - репозиторий, merge requests, code review.md",
     "99 ~ FILES ~/Pasted image 20261008174504.png",
     "99 ~ FILES ~/Pasted image 20261008174452.png",
     "99 ~ FILES ~/Pasted image 20261007165054.png",
