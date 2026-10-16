@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d515145a923d5975",
+        "id": "f33109704677a9be",
         "type": "tabs",
         "children": [
           {
-            "id": "dd31476668d90253",
+            "id": "adbb37d91cb61211",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5. DevOps/5.4. ~ kubernetes ~ ИНФОГРАФИКА.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "5.4. ~ kubernetes ~ ИНФОГРАФИКА"
-            }
-          },
-          {
-            "id": "e16fcf3cd18716b8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2.2.5. ~ Kafka ~ ИНФОГРАФИКА"
-            }
-          },
-          {
-            "id": "002740b5893f7c6c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5. DevOps/5.4. ~ kubernetes ~ ИНФОГРАФИКА.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "5.4. ~ kubernetes ~ ИНФОГРАФИКА"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +154,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,23 +194,23 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "e16fcf3cd18716b8",
+  "active": "adbb37d91cb61211",
   "lastOpenFiles": [
-    "4. Git/4.3. ~ CI CD ~ ПОДРОБНО.md",
-    "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
     "5. DevOps/5.3. Kubernetes - разворачиваем контейнеры в кластере.md",
     "5. DevOps/5.4. ~ kubernetes ~ ИНФОГРАФИКА.md",
+    "5. DevOps/5.2. Observability - Prometheus, Grafana, healthchecks, tracing.md",
+    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
+    "4. Git/4.3. ~ CI CD ~ ПОДРОБНО.md",
+    "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
     "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.2. (П) Observability.md",
     "4. Git/4.0. Основы Git - коммиты, ветки, merge.md",
     "4. Git/4.1. Работа с GitLab - репозиторий, merge requests, code review.md",
     "4. Git/4.2. Git Flow и модели ветвления.md",
-    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.0. Redis - основы и кэширование.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.3. Kafka - продюсеры и консьюмеры.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.4. ~ Kafka ~ ПОДРОБНО.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.6. Гарантии доставки сообщений.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.1. TTL, eviction.md",
-    "5. DevOps/5.2. Observability - Prometheus, Grafana, healthchecks, tracing.md",
     "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.1. (П) Docker и docker-compose.md",
     "5. DevOps/5.1. Docker и docker-compose.md",
     "99 ~ FILES ~/Pasted image 20261013172636.png",
