@@ -11,14 +11,10 @@
             "id": "adbb37d91cb61211",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Углублённый Go ✦/7.0. Go под капотом/7.0.0. Map под капотом.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.0.0. Map под капотом"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -158,7 +154,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Углублённый Go ✦/7.0. Go под капотом/7.0.0. Map под капотом.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,14 +196,30 @@
   },
   "active": "adbb37d91cb61211",
   "lastOpenFiles": [
+    "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.0. Дженерики (Generics).md",
     "7. Углублённый Go ✦/7.0. Go под капотом/7.0.0. Map под капотом.md",
+    "6. ~ ПРАКТИКИ ~/6.0. Модуль 2/6.0.0. (П) Переменные, типы и выражения.md",
+    "1. Golang/1.1. Основы Go/1.1.1. Переменные.md",
+    "1. Golang/1.1. Основы Go/1.1.0. Go Basics.md",
     "1. Golang/1.1. Основы Go/1.1.7. Map в Go - устройство и особенности.md",
+    "1. Golang/1.1. Основы Go/1.1.6. Массивы и слайсы, работа под капотом.md",
+    "1. Golang/1.1. Основы Go/1.1.4. Указатели - работа с памятью и передача данных.md",
+    "1. Golang/1.1. Основы Go/1.1.3. Циклы, условия, логика.md",
+    "1. Golang/1.1. Основы Go/1.1.2. Типы данных.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.1. Interface/1.0.1.5. Git.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.1. Interface/1.0.1.7 ~ IDE HOTKEYS ~.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.1. Interface/1.0.1.6. Problems.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.1. Interface/1.0.1.4. Debug.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.1. Interface/1.0.1.3. Run.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.1. Interface/1.0.1.2. Terminal.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.1. Interface/1.0.1.1. Editor.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.1. Interface/1.0.1.0. Project.md",
+    "1. Golang/1.0. IDE JetBrains Goland/1.0.0. Basics/1.0.0.0. JetBrains Goland.md",
     "7. Углублённый Go ✦/7.2. Справочник терминов",
     "7. Углублённый Go ✦/7.1. Алгосы",
     "7. Углублённый Go ✦/Без названия.md",
     "7. Углублённый Go ✦/7.0. Go под капотом",
     "7. Углублённый Go ✦",
-    "1. Golang/1.1. Основы Go/1.1.6. Массивы и слайсы, работа под капотом.md",
     "5. DevOps/5.4. ~ kubernetes ~ ИНФОГРАФИКА.md",
     "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.3. ~ 12 ~ ПРОЕКТ.md",
     "99 ~ FILES ~/gotracker.zip",
@@ -216,22 +227,6 @@
     "6. ~ ПРАКТИКИ ~/6.9. Модуль 11/6.9.3. ~ 11 ~ ПРОЕКТ.md",
     "6. ~ ПРАКТИКИ ~/6.8. Модуль 10/6.8.3. ~ 10 ~ ПРОЕКТ.md",
     "6. ~ ПРАКТИКИ ~/6.7. Модуль 9/6.7.4. ~ 9 ~ ПРОЕКТ.md",
-    "6. ~ ПРАКТИКИ ~/6.6. Модуль 8/6.6.0. ~ 8 ~ ПРОЕКТ.md",
-    "6. ~ ПРАКТИКИ ~/6.5. Модуль 7/6.5.6. ~ 7 ~ ПРОЕКТ.md",
-    "6. ~ ПРАКТИКИ ~/6.4. Модуль 6/6.4.2. ~ 6 ~ ПРОЕКТ.md",
-    "6. ~ ПРАКТИКИ ~/6.3. Модуль 5/6.3.3. ~ 5 ~ ПРОЕКТ.md",
-    "6. ~ ПРАКТИКИ ~/6.2. Модуль 4/6.2.2. ~ 4 ~ ПРОЕКТ.md",
-    "6. ~ ПРАКТИКИ ~/6.1. Модуль 3/6.1.2. ~ 3 ~ ПРОЕКТ.md",
-    "6. ~ ПРАКТИКИ ~/6.0. Модуль 2/6.0.5. ~ 2 ~ ПРОЕКТ.md",
-    "5. DevOps/5.3. Kubernetes - разворачиваем контейнеры в кластере.md",
-    "5. DevOps/5.1. Docker и docker-compose.md",
-    "5. DevOps/5.0. Конфигурации и secrets.md",
-    "5. DevOps/5.2. Observability - Prometheus, Grafana, healthchecks, tracing.md",
-    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
-    "4. Git/4.3. ~ CI CD ~ ПОДРОБНО.md",
-    "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
-    "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.2. (П) Observability.md",
-    "4. Git/4.0. Основы Git - коммиты, ветки, merge.md",
     "99 ~ FILES ~/Pasted image 20261013172636.png",
     "99 ~ FILES ~/Pasted image 20261013172545.png",
     "99 ~ FILES ~/Pasted image 20261013172453.png",

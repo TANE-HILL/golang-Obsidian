@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"1. Golang/1.0. IDE JetBrains Goland\"  ",
@@ -160,6 +160,13 @@
         "a": 1,
         "rgb": 10879231
       }
+    },
+    {
+      "query": "path:\"7. Углублённый Go ✦\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -172,6 +179,6 @@
   "repelStrength": 12.0846673781572,
   "linkStrength": 0.699173369079535,
   "linkDistance": 114,
-  "scale": 0.5843311370973464,
+  "scale": 0.5843311370973473,
   "close": true
 }
