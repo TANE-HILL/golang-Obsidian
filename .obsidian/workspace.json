@@ -11,12 +11,14 @@
             "id": "adbb37d91cb61211",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "5. DevOps/5.4. ~ kubernetes ~ ИНФОГРАФИКА.md"
+                "file": "1. Golang/1.1. Основы Go/1.1.6. Массивы и слайсы, работа под капотом.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "5.4. ~ kubernetes ~ ИНФОГРАФИКА"
+              "icon": "lucide-file",
+              "title": "1.1.6. Массивы и слайсы, работа под капотом"
             }
           }
         ]
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. DevOps/5.4. ~ kubernetes ~ ИНФОГРАФИКА.md",
+                "file": "1. Golang/1.1. Основы Go/1.1.6. Массивы и слайсы, работа под капотом.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,6 +201,7 @@
   },
   "active": "adbb37d91cb61211",
   "lastOpenFiles": [
+    "5. DevOps/5.4. ~ kubernetes ~ ИНФОГРАФИКА.md",
     "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.3. ~ 12 ~ ПРОЕКТ.md",
     "99 ~ FILES ~/gotracker.zip",
     "6. ~ ПРАКТИКИ ~/6.10. Модуль 12/6.10.1. (П) Docker и docker-compose.md",
@@ -212,7 +215,6 @@
     "6. ~ ПРАКТИКИ ~/6.2. Модуль 4/6.2.2. ~ 4 ~ ПРОЕКТ.md",
     "6. ~ ПРАКТИКИ ~/6.1. Модуль 3/6.1.2. ~ 3 ~ ПРОЕКТ.md",
     "6. ~ ПРАКТИКИ ~/6.0. Модуль 2/6.0.5. ~ 2 ~ ПРОЕКТ.md",
-    "5. DevOps/5.4. ~ kubernetes ~ ИНФОГРАФИКА.md",
     "5. DevOps/5.3. Kubernetes - разворачиваем контейнеры в кластере.md",
     "5. DevOps/5.1. Docker и docker-compose.md",
     "5. DevOps/5.0. Конфигурации и secrets.md",
