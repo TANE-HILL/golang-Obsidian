@@ -1,0 +1,54 @@
+{
+  "mode": "colormap",
+  "colormapName": "hsv",
+  "nshades": 20,
+  "fontColorOpacity": 1,
+  "backgroundColorOpacity": 0.1,
+  "cycleColors": true,
+  "enableEditorMode": true,
+  "enableReadingMode": true,
+  "userDefined": {
+    "h1": {
+      "color": "#e06c75",
+      "backgroundColor": "#e06c75",
+      "enableBackground": false,
+      "bold": false,
+      "italic": false
+    },
+    "h2": {
+      "color": "#e5c07b",
+      "backgroundColor": "#e5c07b",
+      "enableBackground": false,
+      "bold": false,
+      "italic": false
+    },
+    "h3": {
+      "color": "#98c379",
+      "backgroundColor": "#98c379",
+      "enableBackground": false,
+      "bold": false,
+      "italic": false
+    },
+    "h4": {
+      "color": "#56b6c2",
+      "backgroundColor": "#56b6c2",
+      "enableBackground": false,
+      "bold": false,
+      "italic": false
+    },
+    "h5": {
+      "color": "#61afef",
+      "backgroundColor": "#61afef",
+      "enableBackground": false,
+      "bold": false,
+      "italic": false
+    },
+    "h6": {
+      "color": "#c678dd",
+      "backgroundColor": "#c678dd",
+      "enableBackground": false,
+      "bold": false,
+      "italic": false
+    }
+  }
+}
