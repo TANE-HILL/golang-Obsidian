@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. ВОПРОСЫ С СОБЕСЕДОВАНИЙ/8.0. Вопросы с собеседований.md",
+                "file": "7. Углублённый Go ✦/7.0. Go под капотом/7.0.1. Garbage Collector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.0. Вопросы с собеседований"
+              "title": "7.0.1. Garbage Collector"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. ВОПРОСЫ С СОБЕСЕДОВАНИЙ/8.0. Вопросы с собеседований.md",
+                "file": "7. Углублённый Go ✦/7.0. Go под капотом/7.0.1. Garbage Collector.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,10 +199,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "03b9814b581acb29",
+  "active": "ee1511862924a1b6",
   "lastOpenFiles": [
-    "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.11. itab.md",
+    "7. Углублённый Go ✦/7.0. Go под капотом/7.0.1. Garbage Collector.md",
+    "7. Углублённый Go ✦/7.0. Go под капотом/7.0.0. Map под капотом.md",
+    "99 ~ FILES ~/Pasted image 20261027145940.png",
+    "99 ~ FILES ~/Pasted image 20261027145317.png",
+    "99 ~ FILES ~/Pasted image 20261027145315.png",
     "8. ВОПРОСЫ С СОБЕСЕДОВАНИЙ/8.0. Вопросы с собеседований.md",
+    "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.11. itab.md",
     "1. Golang/1.5. Архитектура приложений/1.5.4. Code Review best practices.md",
     "6. ~ ПРАКТИКИ ~/6.0. Модуль 2/6.0.2.G. (П) ~ PRACTICE  GPT ~.md",
     "7. Углублённый Go ✦/7.1. Алгосы/7.1.0. Асимптотический анализ.md",
@@ -215,7 +220,6 @@
     "99 ~ FILES ~/Pasted image 20261025204421.png",
     "Pasted image 20261025204409.png",
     "Pasted image 20261025204407.png",
-    "7. Углублённый Go ✦/7.0. Go под капотом/7.0.0. Map под капотом.md",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.0. Дженерики.md",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.6. Сборщик мусора.md",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.4. Типы очередей.md",
@@ -228,8 +232,6 @@
     "5. DevOps/5.2. Observability - Prometheus, Grafana, healthchecks, tracing.md",
     "5. DevOps/5.1. Docker и docker-compose.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.6. Гарантии доставки сообщений.md",
-    "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
-    "4. Git/4.4. Git, GitLab ИНФОГРАФИКА.md",
     "8. ВОПРОСЫ С СОБЕСЕДОВАНИЙ",
     "7. Углублённый Go ✦/7.3.",
     "7. Углублённый Go ✦/7.2. Справочник терминов",
@@ -244,9 +246,6 @@
     "99 ~ FILES ~/goshop (add docker).zip",
     "99 ~ FILES ~/goshop.zip",
     "Pasted image 20261010235956.png",
-    "99 ~ FILES ~/Pasted image 20261008174504.png",
-    "99 ~ FILES ~/Pasted image 20261008174452.png",
-    "99 ~ FILES ~/Pasted image 20261007165054.png",
     "2. БД и работа с данными/2.2. Redis и Kafka/Без названия.canvas",
     "2. БД и работа с данными/2.2. Redis и Kafka/Kafka/Kafka.canvas",
     "Без названия.canvas"
