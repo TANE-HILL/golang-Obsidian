@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.14. RabbitMQ.md",
+                "file": "7. Углублённый Go ✦/7.3. System Design/7.3.0. Архитектуры ИС.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2.14. RabbitMQ"
+              "title": "7.3.0. Архитектуры ИС"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.14. RabbitMQ.md",
+                "file": "7. Углублённый Go ✦/7.3. System Design/7.3.0. Архитектуры ИС.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,11 @@
   },
   "active": "03b9814b581acb29",
   "lastOpenFiles": [
-    "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.13. Битовые операции.md",
+    "Pasted image 20261104135451.png",
+    "7. Углублённый Go ✦/7.3. System Design",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.14. RabbitMQ.md",
+    "7. Углублённый Go ✦/7.3. System Design/7.3.0. Архитектуры ИС.md",
+    "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.13. Битовые операции.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.5. ~ Kafka ~ ИНФОГРАФИКА.md",
     "2. БД и работа с данными/2.2. Redis и Kafka/2.2.3. Kafka - продюсеры и консьюмеры.md",
     "3. SQL Academy/3.0. ~ Модуль 2 ~ Основы/3.0.0. Что такое БД и СУБД.md",
@@ -226,8 +229,6 @@
     "3. SQL Academy/3.4. ~ Модуль 6 ~ Продвинутый SQL/3.4.9. Транзакции.md",
     "3. SQL Academy/3.5. ~ Модуль 7 ~ БД и таблицы/3.5.7. Индексы в SQL.md",
     "3. SQL Academy/3.5. ~ Модуль 7 ~ БД и таблицы/3.5.6. VIEW, представления.md",
-    "3. SQL Academy/3.5. ~ Модуль 7 ~ БД и таблицы/3.5.8. Constraints, ограничение столбцов.md",
-    "2. БД и работа с данными/2.1. Работа с PostgreSQL/2.1.0. Подключение PostgreSQL.md",
     "9. РЕЗЮМЕ",
     "99 ~ FILES ~/Pasted image 20261027145940.png",
     "99 ~ FILES ~/Pasted image 20261027145317.png",
@@ -246,7 +247,6 @@
     "99 ~ FILES ~/Pasted image 20261013172545.png",
     "99 ~ FILES ~/Pasted image 20261013172453.png",
     "99 ~ FILES ~/goshop",
-    "99 ~ FILES ~/goshop (add docker).zip",
     "2. БД и работа с данными/2.2. Redis и Kafka/Без названия.canvas",
     "2. БД и работа с данными/2.2. Redis и Kafka/Kafka/Kafka.canvas",
     "Без названия.canvas"
