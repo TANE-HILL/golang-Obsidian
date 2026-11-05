@@ -11,10 +11,14 @@
             "id": "03b9814b581acb29",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "7. Углублённый Go ✦/7.3. System Design/7.3.0. Архитектуры ИС.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.3.0. Архитектуры ИС"
             }
           }
         ]
@@ -154,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "7. Углублённый Go ✦/7.3. System Design/7.3.0. Архитектуры ИС.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,6 +201,15 @@
   },
   "active": "03b9814b581acb29",
   "lastOpenFiles": [
+    "Pasted image 20261105134527.png",
+    "Pasted image 20261105134525.png",
+    "99 ~ FILES ~/Pasted image 20261105134258.png",
+    "99 ~ FILES ~/Pasted image 20261105134005.png",
+    "99 ~ FILES ~/Pasted image 20261105133758.png",
+    "99 ~ FILES ~/Pasted image 20261105133150.png",
+    "99 ~ FILES ~/Pasted image 20261105132909.png",
+    "99 ~ FILES ~/Pasted image 20261105132808.png",
+    "99 ~ FILES ~/Pasted image 20261105132648.png",
     "7. Углублённый Go ✦/7.3. System Design/7.3.0. Архитектуры ИС.md",
     "99 ~ FILES ~/Pasted image 20261105011110.png",
     "6. ~ ПРАКТИКИ ~/6.0. Модуль 2/6.0.3. (П) Массивы и слайсы.md",
@@ -203,9 +217,6 @@
     "6. ~ ПРАКТИКИ ~/6.0. Модуль 2/6.0.2. (П) Функции и передача данных.md",
     "6. ~ ПРАКТИКИ ~/6.0. Модуль 2/6.0.0. (П) Переменные, типы и выражения.md",
     "99 ~ FILES ~/Pasted image 20261105005038.png",
-    "99 ~ FILES ~/Pasted image 20261104142150.png",
-    "99 ~ FILES ~/Pasted image 20261104141704.png",
-    "99 ~ FILES ~/Pasted image 20261104135451.png",
     "7. Углублённый Go ✦/7.3. System Design",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.14. RabbitMQ.md",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.13. Битовые операции.md",
@@ -222,17 +233,12 @@
     "7. Углублённый Go ✦/7.1. Алгосы/7.1.0. Асимптотический анализ.md",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.15. gRPC.md",
     "7. Углублённый Go ✦/7.0. Go под капотом/7.0.1. Новая map 1.24+.md",
-    "99 ~ FILES ~/Pasted image 20261102123504.png",
     "7. Углублённый Go ✦/7.0. Go под капотом/7.0.3. Garbage Collector.md",
     "8. ВОПРОСЫ С СОБЕСЕДОВАНИЙ/8.0. Вопросы с собеседований.md",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.19. map в Go -СТАРАЯ и НОВАЯ.md",
     "7. Углублённый Go ✦/7.2. Справочник терминов/7.2.3. Бакеты.md",
     "2. БД и работа с данными/2.1. Работа с PostgreSQL/2.1.3. Транзакции.md",
     "9. РЕЗЮМЕ",
-    "99 ~ FILES ~/Pasted image 20261027145940.png",
-    "99 ~ FILES ~/Pasted image 20261027145317.png",
-    "99 ~ FILES ~/Pasted image 20261027145315.png",
-    "99 ~ FILES ~/Pasted image 20261025204421.png",
     "8. ВОПРОСЫ С СОБЕСЕДОВАНИЙ",
     "7. Углублённый Go ✦/7.3.",
     "7. Углублённый Go ✦/7.2. Справочник терминов",
