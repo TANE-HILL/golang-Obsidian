@@ -1,7 +1,9 @@
 {
   "accentColor": "#5d47ff",
   "enabledCssSnippets": [
-    "dopamine-outline"
+    "extra-bold",
+    "dopamine-outline",
+    "fantastic-headers"
   ],
   "theme": "obsidian",
   "cssTheme": "",

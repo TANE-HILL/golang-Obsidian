@@ -1,0 +1,10 @@
+/* Жирный текст в режиме чтения */
+.markdown-rendered strong {
+    font-weight: 900 !important;
+}
+
+/* Жирный текст в режиме редактирования */
+.markdown-source-view strong,
+.cm-strong {
+    font-weight: 900 !important;
+}
